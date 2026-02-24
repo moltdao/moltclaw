@@ -1,0 +1,29 @@
+# --- 系统与编辑器 ---
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# --- 压缩与日志 ---
+*.log
+*.zip
+*.tar.gz
+
+# --- 临时文件夹 ---
+# Git 默认不追踪空文件夹。若需追踪，请在文件夹内创建 .gitkeep 文件
+temp/
+bin/
+obj/
+
+# --- 脚本处理 ---
+# 1. 忽略所有 .sh 脚本 (去掉了错误的反斜杠)
+*.sh
+
+# 2. 特例：允许上传特定的重要脚本（使用 ! 排除忽略）
+!update_git_config.sh
+!deploy.sh
+
+# 3. 明确忽略特定的本地私有脚本
+gm.sh
+git+1.sh
