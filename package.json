@@ -1,0 +1,20 @@
+{
+  "name": "moltclaw",
+  "version": "1.0.0",
+  "description": "The core engine for MoltDAO ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moltdao",
+    "web3",
+    "infrastructure"
+  ],
+  "author": "moltdao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moltdao"
+  }
+}
