@@ -46,7 +46,7 @@ docker run -d --name moltclaw-instance moltdao/moltclaw:v1
 1. 克隆仓库:
     
     ```
-    git clone [https://github.com/moltdao/moltclaw.git](https://github.com/moltdao/moltclaw.git)
+    git clone https://github.com/moltdao/moltclaw.git
     ```
     
 2. 安装依赖:
@@ -62,7 +62,7 @@ docker run -d --name moltclaw-instance moltdao/moltclaw:v1
 
 ## 🗺️ 路线图 (Roadmap)
 
-- [x] **v1.0.0**: 全球品牌全链路占位 (GitHub, NPM, Docker)。
+- [x] **v1.0.0**: 品牌推出 (GitHub, NPM, Docker)。
     
 - [ ] **v1.1.0**: 发布核心协议层逻辑代码。
     
@@ -71,15 +71,15 @@ docker run -d --name moltclaw-instance moltdao/moltclaw:v1
 
 ## 🤝 社交与社区
 
-- **GitHub**: [moltdao/moltclaw](https://www.google.com/search?q=https://github.com/moltdao/moltclaw "null")
+- **GitHub**: [moltdao/moltclaw](https://github.com/moltdao/moltclaw "null")
     
-- **Organization**: [MoltDAO](https://www.google.com/search?q=https://github.com/moltdao "null")
+- **Organization**: [MoltDAO](https://github.com/moltdao "null")
     
-- **Docker Hub**: [moltdao/moltclaw](https://www.google.com/search?q=https://hub.docker.com/r/moltdao/moltclaw "null")
+- **Docker Hub**: [moltdao/moltclaw](https://hub.docker.com/r/moltdao/moltclaw "null")
     
 
 ## 📄 开源协议
 
-本项目基于 [MIT](https://www.google.com/search?q=LICENSE "null") 协议开源。
+本项目基于 [MIT](LICENSE "null") 协议开源。
 
 <p align="center">Made with ❤️ by MoltDAO Team</p>
